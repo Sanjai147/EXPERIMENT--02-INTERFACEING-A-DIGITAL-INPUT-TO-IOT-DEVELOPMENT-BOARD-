@@ -110,7 +110,8 @@ void IRPAIR()
 
  
 ## LED OFF:
- ![Uploading WhatsApp Image 2024-03-05 at 11.02.16_416c6c52.jpg…]()
+![WhatsApp Image 2024-03-05 at 11 02 16_527356ba](https://github.com/Sanjai147/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/162275632/c3000721-fc28-4679-89f3-c3cd5819c3e7)
+
 
  
 ## Result :
